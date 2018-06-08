@@ -4,7 +4,7 @@ public class Depart extends Employee {
 	
 
 	String depart;
-	
+	sdfsdfsdf
 	public Depart(String name,int salary ,String depart) {
 		super(name, salary);
 		this.depart = depart;
